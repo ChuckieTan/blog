@@ -1,0 +1,10 @@
+{
+  "baseFontSize": 15,
+  "theme": "moonstone",
+  "translucency": false,
+  "cssTheme": "Things",
+  "enabledCssSnippets": [
+    "两端对齐",
+    "主题微调"
+  ]
+}

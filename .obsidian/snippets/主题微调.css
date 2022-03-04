@@ -1,0 +1,30 @@
+.modal.mod-publish {
+    padding-bottom: 40vh;
+}
+
+.modal.mod-settings {
+    width: 70vw;
+    height: 80vh;
+}
+
+.modal.mod-settings .vertical-tab-header {
+    height: 80vh;
+}
+
+.modal.mod-settings .vertical-tab-content-container {
+    height: 80vh;
+}
+
+div.side-dock-ribbon-action svg {
+    width: 20px;
+    height: 20px;
+}
+/* 
+.side-dock-ribbon-action {
+    width: 22px;
+} */
+
+/* .workspace-ribbon {
+    padding-left: 2px;
+    padding-right: 10px;
+} */
