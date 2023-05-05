@@ -16,6 +16,16 @@
       "right": 2,
       "bottom": 2,
       "left": 2
+    },
+    "migrated": true,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "rules": [],
+    "emojiStyle": "none",
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
     }
   }
 }

@@ -1,10 +1,15 @@
 {
   "baseFontSize": 15,
   "theme": "moonstone",
-  "translucency": false,
+  "translucency": true,
   "cssTheme": "Things",
   "enabledCssSnippets": [
-    "两端对齐",
-    "主题微调"
-  ]
+    "主题微调",
+    "两端对齐"
+  ],
+  "accentColor": "#7896a5",
+  "interfaceFontFamily": "",
+  "monospaceFontFamily": "Anonymous Pro",
+  "showViewHeader": true,
+  "nativeMenus": false
 }

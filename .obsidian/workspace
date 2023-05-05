@@ -9,9 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "基础知识/数据库/数据库基础知识：封锁.md",
+            "file": "自己动手写数据库：总体架构篇.md",
             "mode": "source",
-            "source": true
+            "source": false
           }
         }
       }
@@ -66,7 +66,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "基础知识/数据库/数据库基础知识：封锁.md",
+                "file": "自己动手写数据库：总体架构篇.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,11 +95,11 @@
   "lastOpenFiles": [
     "基础知识/数据库/数据库基础知识：封锁.md",
     "基础知识/数据库/数据库基础知识：事务.md",
-    "基础知识/数据库/数据库基础知识：并发一致性问题和隔离级别.md",
+    "自己动手写数据库：总体架构篇.md",
     "未命名.md",
     "draft/分布式基础知识：分布式事务.md",
-    "自己动手写数据库：总体架构篇.md",
     "template/YAML Front Matter.md",
+    "基础知识/数据库/数据库基础知识：并发一致性问题和隔离级别.md",
     "kanban.md",
     "asd.md",
     "psychological effects.md"
